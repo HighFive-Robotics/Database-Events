@@ -1,6 +1,14 @@
 {
   "events": [
     {
+      "id": "test",
+      "title": "test",
+      "date": "2025-03-18",
+      "image": "https://raw.githubusercontent.com/HighFive-Robotics/Database-Events/main/assets/events/test_1.webp",
+      "type": "community",
+      "season": "intothedeep"
+    },
+    {
       "id": "intoTheDeep",
       "title": "National",
       "date": "2024-03-16",
@@ -106,9 +114,9 @@
     },
     {
       "id": "kickoff-parinti",
-      "title": "Kickoff Părinți",
+      "title": "Kickoff P\u0103rin\u021bi",
       "date": "2023-11-17",
-      "image": "https://raw.githubusercontent.com/CodeYannSteff/FTC/main/assets/events/Kickoff părinți_.webp",
+      "image": "https://raw.githubusercontent.com/CodeYannSteff/FTC/main/assets/events/Kickoff p\u0103rin\u021bi_.webp",
       "type": "community",
       "season": "intothedeep"
     },
@@ -138,7 +146,7 @@
     },
     {
       "id": "noaptea-cercetatorilor",
-      "title": "Noaptea Cercertătorilor",
+      "title": "Noaptea Cercert\u0103torilor",
       "date": "2023-09-27",
       "image": "https://raw.githubusercontent.com/CodeYannSteff/FTC/main/assets/events/NoapteaCercetatorilor-26.webp",
       "type": "community",
@@ -170,7 +178,7 @@
     },
     {
       "id": "somes-tech-challenge",
-      "title": "Someș Tech Challenge",
+      "title": "Some\u0219 Tech Challenge",
       "date": "2023-07-28",
       "image": "https://raw.githubusercontent.com/CodeYannSteff/FTC/main/assets/events/Somes Tech Challange.webp",
       "type": "competition",
@@ -178,9 +186,9 @@
     },
     {
       "id": "tabara-daruieste-bucurie",
-      "title": "Tabăra „Dăruiește Bucurie",
+      "title": "Tab\u0103ra \u201eD\u0103ruie\u0219te Bucurie",
       "date": "2023-07-16",
-      "image": "https://raw.githubusercontent.com/CodeYannSteff/FTC/main/assets/events/Tabăra_„Dăruiește_Bucurie.webp",
+      "image": "https://raw.githubusercontent.com/CodeYannSteff/FTC/main/assets/events/Tab\u0103ra_\u201eD\u0103ruie\u0219te_Bucurie.webp",
       "type": "community",
       "season": "intothedeep"
     },
@@ -197,7 +205,7 @@
       "title": "Fabrica virtuala 2024",
       "date": "2023-06-06",
       "image": "https://raw.githubusercontent.com/CodeYannSteff/FTC/main/assets/events/Fabrica Virtuala.webp",
-      "type": "education", 
+      "type": "education",
       "season": "intothedeep"
     },
     {
@@ -472,157 +480,157 @@
       "type": "betterTogheter",
       "season": "centerstage"
     },
-      {
-    "id": "national-competition",
-    "title": "National",
-    "date": "2024-03-05",
-    "image": "https://raw.githubusercontent.com/CodeYannSteff/FTC/main/assets/events/Natio.webp",
-    "type": "competition",
-    "season": "powerplay"
-  },
-  {
-    "id": "school-mihai-eminescu",
-    "title": "School \"Mihai Eminescu\" Pitesti",
-    "date": "2024-02-27",
-    "image": "https://raw.githubusercontent.com/CodeYannSteff/FTC/main/assets/events/Sc%2011.webp",
-    "type": "education",
-    "season": "powerplay"
-  },
-  {
-    "id": "school-adrian-paunescu",
-    "title": "School \"Adrian Paunescu\" Pitesti",
-    "date": "2024-02-24",
-    "image": "https://raw.githubusercontent.com/CodeYannSteff/FTC/main/assets/events/Sc%2015.webp",
-    "type": "education",
-    "season": "powerplay"
-  },
-  {
-    "id": "regional-competition",
-    "title": "Regional",
-    "date": "2024-02-15",
-    "image": "https://raw.githubusercontent.com/CodeYannSteff/FTC/main/assets/events/Regio.webp",
-    "type": "competition",
-    "season": "powerplay"
-  },
-  {
-    "id": "school-ion-minulescu",
-    "title": "School \"Ion Minulescu\" Pitesti",
-    "date": "2024-02-02",
-    "image": "https://raw.githubusercontent.com/CodeYannSteff/FTC/main/assets/events/SC%202.webp",
-    "type": "education",
-    "season": "powerplay"
-  },
-  {
-    "id": "how-to-win-demo",
-    "title": "How To Win Demo",
-    "date": "2024-01-14",
-    "image": "https://raw.githubusercontent.com/CodeYannSteff/FTC/main/assets/events/HTW%20-%20Copy.webp",
-    "type": "competition",
-    "season": "powerplay"
-  },
-  {
-    "id": "karcher-visit",
-    "title": "Visit at Karcher Curtea De Arges",
-    "date": "2023-12-20",
-    "image": "https://raw.githubusercontent.com/CodeYannSteff/FTC/main/assets/events/Karkher%20-%20Copy.webp",
-    "type": "community",
-    "season": "powerplay"
-  },
-  {
-    "id": "sponsors-christmas",
-    "title": "Sponsors Christmas Event",
-    "date": "2023-12-18",
-    "image": "https://raw.githubusercontent.com/CodeYannSteff/FTC/main/assets/events/Sponsor.webp",
-    "type": "community",
-    "season": "powerplay"
-  },
-  {
-    "id": "demo-brave-bots-hypercube",
-    "title": "Demo Brave Bots & Hypercube",
-    "date": "2023-12-11",
-    "image": "https://raw.githubusercontent.com/CodeYannSteff/FTC/main/assets/events/Demo%20Ploiesti%20-%20Copy%20-%20Copy.webp",
-    "type": "competition",
-    "season": "powerplay"
-  },
-  {
-    "id": "robofest",
-    "title": "ROBOFEST",
-    "date": "2023-11-05",
-    "image": "https://raw.githubusercontent.com/CodeYannSteff/FTC/main/assets/events/Robofest.webp",
-    "type": "community",
-    "season": "powerplay"
-  },
-  {
-    "id": "nuclear-research-visit",
-    "title": "Institute Of Nuclear Reasearch Visit",
-    "date": "2023-10-29",
-    "image": "https://raw.githubusercontent.com/CodeYannSteff/FTC/main/assets/events/ICN%20-%20Copy.webp",
-    "type": "community",
-    "season": "powerplay"
-  },
-  {
-    "id": "hf-robotics-watts-up-bonding",
-    "title": "Bonding: HF Robotics & WATT's Up",
-    "date": "2023-10-28",
-    "image": "https://raw.githubusercontent.com/CodeYannSteff/FTC/main/assets/events/Watt.webp",
-    "type": "betterTogheter",
-    "season": "powerplay"
-  },
-  {
-    "id": "stem-kids-mentorship",
-    "title": "\"STEM Kids\" Mentorship",
-    "date": "2023-10-26",
-    "image": "https://raw.githubusercontent.com/CodeYannSteff/FTC/main/assets/events/FLL%20-%20Copy%20-%20Copy.webp",
-    "type": "betterTogheter",
-    "season": "powerplay"
-  },
-  {
-    "id": "researchers-night-upit",
-    "title": "Researchers' Night UPIT",
-    "date": "2023-09-30",
-    "image": "https://raw.githubusercontent.com/CodeYannSteff/FTC/main/assets/events/Cercetatorilor%20-%20Copy%20-%20Copy.webp",
-    "type": "community",
-    "season": "powerplay"
-  },
-  {
-    "id": "kickoff-kickathon",
-    "title": "KickOff & KickAthon",
-    "date": "2023-09-11",
-    "image": "https://raw.githubusercontent.com/CodeYannSteff/FTC/main/assets/events/Kickathon%20-%20Copy.webp",
-    "type": "betterTogheter",
-    "season": "powerplay"
-  },
-  {
-    "id": "robotics-challenge-vivo",
-    "title": "Robotics Challenge VIVO!Pitesti",
-    "date": "2023-05-29",
-    "image": "https://raw.githubusercontent.com/CodeYannSteff/FTC/main/assets/events/Robotics.webp",
-    "type": "community",
-    "season": "powerplay"
-  },
-  {
-    "id": "virtual-factory-workshop",
-    "title": "Worksop \"Virtual Factory\"",
-    "date": "2023-05-27",
-    "image": "https://raw.githubusercontent.com/CodeYannSteff/FTC/main/assets/events/Virtual%20Factory.webp",
-    "type": "community",
-    "season": "powerplay"
-  },
-  {
-    "id": "ipad-visit",
-    "title": "IPAD Visit",
-    "date": "2023-04-27",
-    "image": "https://raw.githubusercontent.com/CodeYannSteff/FTC/main/assets/events/Ipad%20-%20Copy.webp",
-    "type": "community",
-    "season": "powerplay"
-  },
-  {
-    "id": "upit-meeting",
-    "title": "UPIT Meeting",
-    "date": "2023-04-19",
-    "image": "https://raw.githubusercontent.com/CodeYannSteff/FTC/main/assets/events/Upit.webp",
-    "type": "community",
-    "season": "powerplay"
-  }
+    {
+      "id": "national-competition",
+      "title": "National",
+      "date": "2024-03-05",
+      "image": "https://raw.githubusercontent.com/CodeYannSteff/FTC/main/assets/events/Natio.webp",
+      "type": "competition",
+      "season": "powerplay"
+    },
+    {
+      "id": "school-mihai-eminescu",
+      "title": "School \"Mihai Eminescu\" Pitesti",
+      "date": "2024-02-27",
+      "image": "https://raw.githubusercontent.com/CodeYannSteff/FTC/main/assets/events/Sc%2011.webp",
+      "type": "education",
+      "season": "powerplay"
+    },
+    {
+      "id": "school-adrian-paunescu",
+      "title": "School \"Adrian Paunescu\" Pitesti",
+      "date": "2024-02-24",
+      "image": "https://raw.githubusercontent.com/CodeYannSteff/FTC/main/assets/events/Sc%2015.webp",
+      "type": "education",
+      "season": "powerplay"
+    },
+    {
+      "id": "regional-competition",
+      "title": "Regional",
+      "date": "2024-02-15",
+      "image": "https://raw.githubusercontent.com/CodeYannSteff/FTC/main/assets/events/Regio.webp",
+      "type": "competition",
+      "season": "powerplay"
+    },
+    {
+      "id": "school-ion-minulescu",
+      "title": "School \"Ion Minulescu\" Pitesti",
+      "date": "2024-02-02",
+      "image": "https://raw.githubusercontent.com/CodeYannSteff/FTC/main/assets/events/SC%202.webp",
+      "type": "education",
+      "season": "powerplay"
+    },
+    {
+      "id": "how-to-win-demo",
+      "title": "How To Win Demo",
+      "date": "2024-01-14",
+      "image": "https://raw.githubusercontent.com/CodeYannSteff/FTC/main/assets/events/HTW%20-%20Copy.webp",
+      "type": "competition",
+      "season": "powerplay"
+    },
+    {
+      "id": "karcher-visit",
+      "title": "Visit at Karcher Curtea De Arges",
+      "date": "2023-12-20",
+      "image": "https://raw.githubusercontent.com/CodeYannSteff/FTC/main/assets/events/Karkher%20-%20Copy.webp",
+      "type": "community",
+      "season": "powerplay"
+    },
+    {
+      "id": "sponsors-christmas",
+      "title": "Sponsors Christmas Event",
+      "date": "2023-12-18",
+      "image": "https://raw.githubusercontent.com/CodeYannSteff/FTC/main/assets/events/Sponsor.webp",
+      "type": "community",
+      "season": "powerplay"
+    },
+    {
+      "id": "demo-brave-bots-hypercube",
+      "title": "Demo Brave Bots & Hypercube",
+      "date": "2023-12-11",
+      "image": "https://raw.githubusercontent.com/CodeYannSteff/FTC/main/assets/events/Demo%20Ploiesti%20-%20Copy%20-%20Copy.webp",
+      "type": "competition",
+      "season": "powerplay"
+    },
+    {
+      "id": "robofest",
+      "title": "ROBOFEST",
+      "date": "2023-11-05",
+      "image": "https://raw.githubusercontent.com/CodeYannSteff/FTC/main/assets/events/Robofest.webp",
+      "type": "community",
+      "season": "powerplay"
+    },
+    {
+      "id": "nuclear-research-visit",
+      "title": "Institute Of Nuclear Reasearch Visit",
+      "date": "2023-10-29",
+      "image": "https://raw.githubusercontent.com/CodeYannSteff/FTC/main/assets/events/ICN%20-%20Copy.webp",
+      "type": "community",
+      "season": "powerplay"
+    },
+    {
+      "id": "hf-robotics-watts-up-bonding",
+      "title": "Bonding: HF Robotics & WATT's Up",
+      "date": "2023-10-28",
+      "image": "https://raw.githubusercontent.com/CodeYannSteff/FTC/main/assets/events/Watt.webp",
+      "type": "betterTogheter",
+      "season": "powerplay"
+    },
+    {
+      "id": "stem-kids-mentorship",
+      "title": "\"STEM Kids\" Mentorship",
+      "date": "2023-10-26",
+      "image": "https://raw.githubusercontent.com/CodeYannSteff/FTC/main/assets/events/FLL%20-%20Copy%20-%20Copy.webp",
+      "type": "betterTogheter",
+      "season": "powerplay"
+    },
+    {
+      "id": "researchers-night-upit",
+      "title": "Researchers' Night UPIT",
+      "date": "2023-09-30",
+      "image": "https://raw.githubusercontent.com/CodeYannSteff/FTC/main/assets/events/Cercetatorilor%20-%20Copy%20-%20Copy.webp",
+      "type": "community",
+      "season": "powerplay"
+    },
+    {
+      "id": "kickoff-kickathon",
+      "title": "KickOff & KickAthon",
+      "date": "2023-09-11",
+      "image": "https://raw.githubusercontent.com/CodeYannSteff/FTC/main/assets/events/Kickathon%20-%20Copy.webp",
+      "type": "betterTogheter",
+      "season": "powerplay"
+    },
+    {
+      "id": "robotics-challenge-vivo",
+      "title": "Robotics Challenge VIVO!Pitesti",
+      "date": "2023-05-29",
+      "image": "https://raw.githubusercontent.com/CodeYannSteff/FTC/main/assets/events/Robotics.webp",
+      "type": "community",
+      "season": "powerplay"
+    },
+    {
+      "id": "virtual-factory-workshop",
+      "title": "Worksop \"Virtual Factory\"",
+      "date": "2023-05-27",
+      "image": "https://raw.githubusercontent.com/CodeYannSteff/FTC/main/assets/events/Virtual%20Factory.webp",
+      "type": "community",
+      "season": "powerplay"
+    },
+    {
+      "id": "ipad-visit",
+      "title": "IPAD Visit",
+      "date": "2023-04-27",
+      "image": "https://raw.githubusercontent.com/CodeYannSteff/FTC/main/assets/events/Ipad%20-%20Copy.webp",
+      "type": "community",
+      "season": "powerplay"
+    },
+    {
+      "id": "upit-meeting",
+      "title": "UPIT Meeting",
+      "date": "2023-04-19",
+      "image": "https://raw.githubusercontent.com/CodeYannSteff/FTC/main/assets/events/Upit.webp",
+      "type": "community",
+      "season": "powerplay"
+    }
   ]
 }
