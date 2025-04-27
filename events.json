@@ -1,6 +1,134 @@
 {
   "events": [
     {
+      "id": "skyline-visit-at-our-hub",
+      "title": "SkyLine visit at our hub",
+      "date": "2025-04-23",
+      "image": "https://raw.githubusercontent.com/HighFive-Robotics/Database-Events/main/assets/events/SkyLine_visit_at_our_hub.webp",
+      "type": "education",
+      "season": "intothedeep"
+    },
+    {
+      "id": "visit-at-uipath-office",
+      "title": "Visit at UiPath Office",
+      "date": "2025-04-24",
+      "image": "https://raw.githubusercontent.com/HighFive-Robotics/Database-Events/main/assets/events/Visit_at_UiPath_Office.webp",
+      "type": "community",
+      "season": "intothedeep"
+    },
+    {
+      "id": "workshop-rpa-uipath",
+      "title": "Workshop RPA UiPath",
+      "date": "2025-04-22",
+      "image": "https://raw.githubusercontent.com/HighFive-Robotics/Database-Events/main/assets/events/Workshop_RPA_UiPath.webp",
+      "type": "education",
+      "season": "intothedeep"
+    },
+    {
+      "id": "school-alexandru-davila",
+      "title": "School Alexandru Davila",
+      "date": "2025-04-16",
+      "image": "https://raw.githubusercontent.com/HighFive-Robotics/Database-Events/main/assets/events/School_Alexandru_Davila.webp",
+      "type": "education",
+      "season": "intothedeep"
+    },
+    {
+      "id": "school-nicolae-iorga",
+      "title": "School Nicolae Iorga",
+      "date": "2025-04-15",
+      "image": "https://raw.githubusercontent.com/HighFive-Robotics/Database-Events/main/assets/events/School_Nicolae_Iorga.webp",
+      "type": "education",
+      "season": "intothedeep"
+    },
+    {
+      "id": "high-school-of-arts-dinu-lipatti",
+      "title": "High School of Arts Dinu Lipatti",
+      "date": "2025-04-11",
+      "image": "https://raw.githubusercontent.com/HighFive-Robotics/Database-Events/main/assets/events/High_School_of_Arts_Dinu_Lipatti.webp",
+      "type": "education",
+      "season": "intothedeep"
+    },
+    {
+      "id": "visit-at-adient-automotive",
+      "title": "Visit at Adient Automotive",
+      "date": "2025-04-10",
+      "image": "https://raw.githubusercontent.com/HighFive-Robotics/Database-Events/main/assets/events/Visit_at_Adient_Automotive.webp",
+      "type": "community",
+      "season": "intothedeep"
+    },
+    {
+      "id": "visit-at-karcher",
+      "title": "Visit at Karcher",
+      "date": "2025-04-09",
+      "image": "https://raw.githubusercontent.com/HighFive-Robotics/Database-Events/main/assets/events/Visit_at_Karcher.webp",
+      "type": "community",
+      "season": "intothedeep"
+    },
+    {
+      "id": "polifest-2025",
+      "title": "Polifest 2025",
+      "date": "2025-04-03",
+      "image": "https://raw.githubusercontent.com/HighFive-Robotics/Database-Events/main/assets/events/Polifest_2025.webp",
+      "type": "education",
+      "season": "intothedeep"
+    },
+    {
+      "id": "visit-at-ana-stan-notary-office",
+      "title": "Visit at Ana Stan Notary Office",
+      "date": "2025-04-02",
+      "image": "https://raw.githubusercontent.com/HighFive-Robotics/Database-Events/main/assets/events/Visit_at_Ana_Stan_Notary_Office.webp",
+      "type": "community",
+      "season": "intothedeep"
+    },
+    {
+      "id": "award-ceremony-at-pite\u015fti-city-hall",
+      "title": "Award Ceremony at Pite\u015fti City Hall",
+      "date": "2025-03-31",
+      "image": "https://raw.githubusercontent.com/HighFive-Robotics/Database-Events/main/assets/events/Award_Ceremony_at_Pite\u015fti_City_Hall.webp",
+      "type": "community",
+      "season": "intothedeep"
+    },
+    {
+      "id": "filming-with-tvr-at-our-hub",
+      "title": "Filming with TVR at our hub",
+      "date": "2025-03-29",
+      "image": "https://raw.githubusercontent.com/HighFive-Robotics/Database-Events/main/assets/events/Filming_with_TVR_at_our_hub.webp",
+      "type": "community",
+      "season": "intothedeep"
+    },
+    {
+      "id": "visit-at-kirchhoff-automotive",
+      "title": "Visit at KIRCHHOFF Automotive",
+      "date": "2025-03-27",
+      "image": "https://raw.githubusercontent.com/HighFive-Robotics/Database-Events/main/assets/events/Visit_at_KIRCHHOFF_Automotive.webp",
+      "type": "community",
+      "season": "intothedeep"
+    },
+    {
+      "id": "sharing-our-experience-on-antena-3-pite\u015fti",
+      "title": "Sharing our experience on Antena 3 Pite\u015fti",
+      "date": "2025-03-26",
+      "image": "https://raw.githubusercontent.com/HighFive-Robotics/Database-Events/main/assets/events/Sharing_our_experience_on_Antena_3_Pite\u015fti.webp",
+      "type": "community",
+      "season": "intothedeep"
+    },
+    {
+      "id": "ipad-presentation-at-our-hub",
+      "title": "ipad Presentation at our hub",
+      "date": "2025-03-25",
+      "image": "https://raw.githubusercontent.com/HighFive-Robotics/Database-Events/main/assets/events/ipad_Presentation_at_our_hub.webp",
+      "type": "community",
+      "season": "intothedeep"
+    },
+    {
+      "id": "pite\u015fti-retail-park-demo",
+      "title": "Pite\u015fti Retail Park demo",
+      "date": "2025-03-22",
+      "image": "https://raw.githubusercontent.com/HighFive-Robotics/Database-Events/main/assets/events/Pite\u015fti_Retail_Park_demo.webp",
+      "type": "competition",
+      "season": "intothedeep"
+    },
+    {
       "id": "intoTheDeep",
       "title": "National",
       "date": "2024-03-16",
