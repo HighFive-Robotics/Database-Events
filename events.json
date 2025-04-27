@@ -1,14 +1,6 @@
 {
   "events": [
     {
-      "id": "test",
-      "title": "test",
-      "date": "2025-03-18",
-      "image": "https://raw.githubusercontent.com/HighFive-Robotics/Database-Events/main/assets/events/test_1.webp",
-      "type": "community",
-      "season": "intothedeep"
-    },
-    {
       "id": "intoTheDeep",
       "title": "National",
       "date": "2024-03-16",
