@@ -1,6 +1,14 @@
 {
   "events": [
     {
+      "id": "high-school-\"i.c-bratianu\"",
+      "title": "High School \"I.C Bratianu\"",
+      "date": "2025-04-29",
+      "image": "https://raw.githubusercontent.com/HighFive-Robotics/Database-Events/main/assets/events/High_School_\"I.C_Bratianu\".webp",
+      "type": "education",
+      "season": "intothedeep"
+    },
+    {
       "id": "skyline-visit-at-our-hub",
       "title": "SkyLine visit at our hub",
       "date": "2025-04-23",
