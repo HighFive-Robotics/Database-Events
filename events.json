@@ -1,6 +1,14 @@
 {
   "events": [
     {
+      "id": "workshop-3d-print-at-unstpb-cupit",
+      "title": "Workshop 3D Print at UNSTPB CUPIT",
+      "date": "2025-05-08",
+      "image": "https://raw.githubusercontent.com/HighFive-Robotics/Database-Events/main/assets/events/Workshop_3D_Print_at_UNSTPB_CUPIT.webp",
+      "type": "education",
+      "season": "intothedeep"
+    },
+    {
       "id": "high-school-\"i.c-bratianu\"",
       "title": "High School I.C Bratianu",
       "date": "2025-04-29",
