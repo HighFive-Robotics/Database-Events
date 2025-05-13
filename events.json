@@ -1,6 +1,14 @@
 {
   "events": [
     {
+      "id": "creative-and-connected---europe's-day",
+      "title": "Creative and Connected - Europe Day",
+      "date": "2025-05-09",
+      "image": "https://raw.githubusercontent.com/HighFive-Robotics/Database-Events/main/assets/events/Creative_and_Connected_-_Europe's_Day.webp",
+      "type": "community",
+      "season": "intothedeep"
+    },
+    {
       "id": "workshop-3d-print-at-unstpb-cupit",
       "title": "Workshop 3D Print at UNSTPB CUPIT",
       "date": "2025-05-08",
