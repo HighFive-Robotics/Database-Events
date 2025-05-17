@@ -1,6 +1,14 @@
 {
   "events": [
     {
+      "id": "fabrica-virtuala-unstpb-cupit",
+      "title": "Fabrica Virtuala UNSTPB CUPIT",
+      "date": "2025-05-16",
+      "image": "https://raw.githubusercontent.com/HighFive-Robotics/Database-Events/main/assets/events/Fabrica_Virtuala_UNSTPB_CUPIT.webp",
+      "type": "community",
+      "season": "intothedeep"
+    },
+    {
       "id": "creative-and-connected---europe's-day",
       "title": "Creative and Connected - Europe Day",
       "date": "2025-05-09",
