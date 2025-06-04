@@ -1,6 +1,22 @@
 {
   "events": [
     {
+      "id": "open-office-day-at-uipath",
+      "title": "Open Office Day at UiPath",
+      "date": "2025-05-29",
+      "image": "https://raw.githubusercontent.com/HighFive-Robotics/Database-Events/main/assets/events/Open_Office_Day_at_UiPath.webp",
+      "type": "community",
+      "season": "intothedeep"
+    },
+    {
+      "id": "robotics-challenge",
+      "title": "Robotics Challenge",
+      "date": "2025-05-18",
+      "image": "https://raw.githubusercontent.com/HighFive-Robotics/Database-Events/main/assets/events/Robotics_Challenge.webp",
+      "type": "competition",
+      "season": "intothedeep"
+    },
+    {
       "id": "fabrica-virtuala-unstpb-cupit",
       "title": "Fabrica Virtuala UNSTPB CUPIT",
       "date": "2025-05-16",
